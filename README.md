@@ -6,6 +6,8 @@
 
 `Agent Infrastructure` · `Internet Measurement` · `Agent Security` · `Software Supply Chain` · `LLM–Web Interaction`
 
+**Contact:** [zhoulv2008z@gmail.com](mailto:zhoulv2008z@gmail.com)
+
 ## Research Interests
 
 - **AI/Agent Infrastructure Measurement** — Internet-scale discovery, fingerprinting, classification, and longitudinal measurement of Agent/LLM infrastructure.
